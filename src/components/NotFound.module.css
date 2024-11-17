@@ -1,0 +1,33 @@
+.notFound {
+  text-align: center;
+  padding: 50px;
+  font-family: Arial, sans-serif;
+}
+
+.notFound h1 {
+  font-size: 48px;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.notFound p {
+  font-size: 18px;
+  color: #666;
+  margin-bottom: 10px;
+}
+
+.homeLink {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  font-size: 16px;
+  transition: background-color 0.3s ease;
+}
+
+.homeLink:hover {
+  background-color: #0056b3;
+}
